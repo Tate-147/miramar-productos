@@ -14,6 +14,10 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        // $this->call('UsersTableSeeder');
+        // El orden es importante: primero los servicios, luego los paquetes.
+        $this->call([
+            ServicioSeeder::class,
+            PaqueteSeeder::class,
+        ]);
     }
 }
