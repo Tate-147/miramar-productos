@@ -26,7 +26,7 @@ Sigue estos pasos para levantar el proyecto en un entorno local.
 
 1.  **Clonar el repositorio**
     ```bash
-    git clone [https://github.com/Tate-147/miramar-productos.git](https://github.com/Tate-147/miramar-productos.git)
+    git clone https://github.com/Tate-147/miramar-productos.git
     cd miramar-productos
     ```
 
