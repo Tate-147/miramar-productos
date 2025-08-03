@@ -72,3 +72,9 @@ Para iniciar el servidor de desarrollo de Lumen, ejecuta el siguiente comando de
 
 ```bash
 php -S localhost:8001 -t public
+
+---
+
+## Docker 🐋
+
+Se incluye el Dockerfile (archivo con las instrucciones para construir la imagen)
