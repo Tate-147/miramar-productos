@@ -72,6 +72,7 @@ Para iniciar el servidor de desarrollo de Lumen, ejecuta el siguiente comando de
 
 ```bash
 php -S localhost:8001 -t public
+```
 
 ---
 
